@@ -8,14 +8,19 @@
   --dark-gray: hsl(0, 0%, 59%);
 }
 
+/* add box shadow to card */
+
 body {
   font-family: "Kumbh Sans", sans-serif;
   display: grid;
   min-height: 100vh;
   place-items: center;
   background-color: var(--dark-cyan);
+  background-image: url("./images/bg-pattern-top.svg"),
+    url("./images/bg-pattern-bottom.svg");
+  background-position: right 50vw bottom 40vh, left 50vw top 50vh;
+  background-repeat: no-repeat;
 }
-
 .card {
   width: 320px;
   height: 360px;
@@ -58,15 +63,23 @@ span {
   font-size: 0.9em;
 }
 
+.divider {
+  width: 100%;
+  border-top: 2px solid rgb(241, 241, 241);
+  position: relative;
+  transform: translateY(1.45em);
+}
+
 .stats {
   font-size: 0.85em;
   width: 100%;
-  border-top: 2px solid rgb(241, 241, 241);
+  /* border-top: 2px solid rgb(241, 241, 241); */
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 1.5em;
-  margin-top: 1.5em;
+  /* padding: 1.5em;
+  margin-top: 1.5em; */
+  transform: translateY(3em);
 }
 
 .stats h3 {
