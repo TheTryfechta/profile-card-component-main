@@ -39,6 +39,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 Thanks to:
 
-- [@erickarugu32][https://www.frontendmentor.io/profile/erickarugu32]
+- [@erickarugu32](https://www.frontendmentor.io/profile/erickarugu32)
 - [@Shiryu790](https://www.frontendmentor.io/profile/Shiryu790)
   for the CSS related feedback!
