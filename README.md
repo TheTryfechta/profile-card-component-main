@@ -41,4 +41,5 @@ Thanks to:
 
 - [@erickarugu32](https://www.frontendmentor.io/profile/erickarugu32)
 - [@Shiryu790](https://www.frontendmentor.io/profile/Shiryu790)
-  for the CSS related feedback!
+
+for the CSS related feedback!
