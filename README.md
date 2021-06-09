@@ -10,6 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -33,3 +34,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Author
 
 - Frontend Mentor - [@TheTryfechta](https://www.frontendmentor.io/profile/thetryfechta)
+
+## Acknowledgements
+
+Thanks to:
+
+- [@erickarugu32][https://www.frontendmentor.io/profile/erickarugu32]
+- [@Shiryu790](https://www.frontendmentor.io/profile/Shiryu790)
+  for the CSS related feedback!
